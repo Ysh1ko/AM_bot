@@ -28,13 +28,13 @@ Example of images you need to use (names are marked with purple for confidential
 
 ![image](https://github.com/user-attachments/assets/3874335c-396a-4f57-bd37-2711e446f296)
 
-?AMcheck (Image must be in the same message as command)
+?AMcheck (Image must be in the same message as command) <- gets data from given image
 
 ![image](https://github.com/user-attachments/assets/48240347-dfe0-4f87-b9a0-78106297ea55)
 
 ![image](https://github.com/user-attachments/assets/f6919b5f-d60a-46e3-bfcc-2f7ff87957ff)
 
-?getxlsx 
+?getxlsx <- converts data.json to AM.xlsx
 
 ![image](https://github.com/user-attachments/assets/0b1440ca-a04b-4626-84b2-848884385d70)
 
