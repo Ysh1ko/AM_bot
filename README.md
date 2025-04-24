@@ -38,4 +38,4 @@ Example of images you need to use (names are marked with purple for confidential
 
 ![image](https://github.com/user-attachments/assets/0b1440ca-a04b-4626-84b2-848884385d70)
 
-# Keep in mind: Bot struggles with special symbols detection. Might be fixed in the future
+# Keep in mind: Bot struggles with special symbols detection.
